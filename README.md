@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Artur
+### Hi there 👋
 <hr>
 <a href="https://www.linkedin.com/in/artur-yurchenko-109ba9240/" target="_blank"><img src="https://img.icons8.com/android/48/000000/linkedin.png"/></a>
 <a href="https://artur-yurchenko-portfolio.herokuapp.com/" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/a.png"/></a>
