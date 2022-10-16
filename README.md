@@ -6,6 +6,9 @@
 <br>
 <h1>I'm a Python Developer<h1>
 <hr>
+<img src="https://user-images.githubusercontent.com/97242088/196054022-22c52cd2-9c5d-46a5-a37a-41df66ca18e6.png" width="500" height="500" alt="myQRcode"/>
+<hr>
+
 
 <!--
 **artur24814/artur24814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
