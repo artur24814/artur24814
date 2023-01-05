@@ -1,11 +1,23 @@
-### Hi there 👋
 <hr>
-<a href="https://www.linkedin.com/in/artur-yurchenko-109ba9240/" target="_blank"><img src="https://img.icons8.com/android/48/000000/linkedin.png"/></a>
-<a href="https://artur-yurchenko-portfolio.herokuapp.com/" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/a.png"/></a>
-<br>
-<br>
-<h1>I'm a Python Developer<h1>
+<img src="https://user-images.githubusercontent.com/97242088/210783094-df81a460-0771-47c5-8045-5a236bbe2993.png" />
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/artur-yurchenko-109ba9240/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
+
+
 <hr>
+  
+  
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=artur24814&hide=stars&show_icons=true" />
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artur24814&layout=compact" />
+  
+  
 
 
 <!--
