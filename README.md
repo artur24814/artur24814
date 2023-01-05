@@ -1,4 +1,4 @@
-<hr>
+
 <img src="https://user-images.githubusercontent.com/97242088/210783094-df81a460-0771-47c5-8045-5a236bbe2993.png" />
 
 <h3 align="center">Connect with me:</h3>
@@ -15,8 +15,10 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)<br>
-![Kivy](https://img.shields.io/badge/Kivy-20232A?style=for-the-badge&logo=Kivy&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=61DAFB)
 ![PyQt5](https://img.shields.io/badge/PyQt5-593D88?style=for-the-badge&logo=pyqt5&logoColor=white)
+![Kivy](https://img.shields.io/badge/Kivy-20232A?style=for-the-badge&logo=Kivy&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 ![Sqlite](https://img.shields.io/badge/-Sqlite-black?style=for-the-badge&logo=sqlite)
 ![DOCKER](https://img.shields.io/badge/-Docker-1572B6?style=for-the-badge&logo=docker)<br>
