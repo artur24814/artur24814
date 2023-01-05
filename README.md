@@ -10,7 +10,23 @@
 
 
 <hr>
-  
+
+##  My Skills
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Kivy](https://img.shields.io/badge/Kivy-20232A?style=flat-square&logo=Kivy&logoColor=61DAFB)
+![PyQt5](https://img.shields.io/badge/PyQt5-593D88?style=flat-square&logo=pyqt5&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+<hr>  
   
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=artur24814&hide=stars&show_icons=true" />
   
