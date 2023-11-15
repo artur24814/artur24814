@@ -14,20 +14,29 @@
 ##  My Skills
 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)<br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+<br>
 ![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=61DAFB)
 ![PyQt5](https://img.shields.io/badge/PyQt5-593D88?style=for-the-badge&logo=pyqt5&logoColor=white)
 ![Kivy](https://img.shields.io/badge/Kivy-20232A?style=for-the-badge&logo=Kivy&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+<br>
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-C8CECA?style=for-the-badge&logo=postgresql)
+![MSSQLServer](https://img.shields.io/badge/-MSSQL-C8CECA?style=for-the-badge&logo=microsoft&logoColor=black)
 ![Sqlite](https://img.shields.io/badge/-Sqlite-black?style=for-the-badge&logo=sqlite)
-![DOCKER](https://img.shields.io/badge/-Docker-1572B6?style=for-the-badge&logo=docker)<br>
+<br>
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css)
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![CSS](https://img.shields.io/badge/-CSS-129B37?style=for-the-badge&logo=css)
+![React](https://img.shields.io/badge/React-0769AD?style=for-the-badge&logo=react&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)<br>
+![DOCKER](https://img.shields.io/badge/-Docker-1572B6?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-F5FFF8?style=for-the-badge&logo=linux)
+![GitLub](https://img.shields.io/badge/-GitLab-F09319?style=for-the-badge&logo=gitlab)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)<br>
+![CI/CD](https://img.shields.io/badge/-CI/CD-CDBCC0?style=for-the-badge&logo=circle&logoColor=white)
+![Scrum](https://img.shields.io/badge/-Scrum-ADB8CB?style=for-the-badge&logo=scrum)
+
+
 
 <hr>  
   
