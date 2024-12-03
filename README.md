@@ -42,7 +42,7 @@
   
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=artur24814&hide=stars&show_icons=true" />
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artur24814&layout=compact&exclude_repo=ArturYurchenko.github.io,calendar_manager,QRreader_and_creator_WithDjangoAndHTMX,Chatbot-C3Po,Plazma-center,Automania_2.0,Django-GeoIP,django_dicom_view,dictionary_app" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artur24814&layout=compact&exclude_repo=ArturYurchenko.github.io,calendar_manager,Chatbot-C3Po,Django-GeoIP,django_dicom_view,palsyvueRepo,BoboVueRepo,ImageUploaderDemo,PlazmaCenterRepo,WordOfBedding" />
   
   
 
